@@ -26,8 +26,6 @@ You can see al of the analysis here, in the Jupyter Notebooks.
 
 There are 2 notebooks available here to showcase work related to the above questions.  Each of the notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title.  Markdown cells were used to assist in walking through the thought process for individual steps.  
 
-There is an additional `.py` file that runs the necessary code to obtain the final model used to predict salary.
-
 ## Results<a name="results"></a>
 
 The main findings of the code can be found at the post available [here](https://anahristian.medium.com/how-happy-are-developers-about-their-jobs-and-where-do-they-live-e503f4331654).
