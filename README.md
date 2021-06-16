@@ -1,5 +1,5 @@
 
-### Table of Contents 17.03.2021
+### Table of Contents
 
 1. [Installation](#installation)
 2. [Project Motivation](#motivation)
